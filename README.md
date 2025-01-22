@@ -77,3 +77,5 @@ TeamPicker Bot is a Discord bot that helps divide participants into balanced tea
   - Switch two participants between teams.
   - Usage: `>switch <name1> <name2>`
   - Example: `>switch Alice Bob`
+
+### Not Currently Hosting
